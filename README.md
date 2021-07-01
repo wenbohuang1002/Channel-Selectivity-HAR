@@ -4,6 +4,11 @@
 All of datasets we use in this paper can be download from Internet and you can find we how to process data in this paper.
 This is my first time to open source, so there maybe some problems in my codes and I will improve this project in the near feature.
 Thanks!
+## Requirements
+● Python3
+● PyTorch (My version 1.9.0+cu111, please choose compatibility with your computer)
+● Scikit-learn
+● Numpy
 ## How to train
 ### UCI-HAR dataset
 Get UCI dataset from UCI Machine Learning Repository(http://archive.ics.uci.edu/ml/index.php), do data pre-processing by sliding window strategy and split the data into training and test sets
