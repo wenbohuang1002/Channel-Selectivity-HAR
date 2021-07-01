@@ -6,6 +6,7 @@ This is my first time to open source, so there maybe some problems in my codes a
 Thanks!
 ## How to train
 ### UCI-HAR dataset
+Get UCI dataset from UCI Machine Learning Repository(http://archive.ics.uci.edu/ml/index.php), do data pre-processing by sliding window strategy and split the data into training and test sets
 ```
 # Baseline for UCI-HAR
 $ python Net_UCI_B.py
