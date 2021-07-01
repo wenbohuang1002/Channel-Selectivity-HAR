@@ -1,13 +1,13 @@
 # [IEEE JBHI 2021]Channel-Selectivity-CNN-for-HAR
 [IEEE JBHI 2021] The convolutional neural networks training with Channel-Selectivity for human activity recognition based on sensors
 ![Model](https://github.com/wenbohuang1002/-IEEE-JBHI-2021-Channel-Selectivity-CNN-for-HAR/blob/main/Images/Model.png)
-All of datasets we use in this paper can be download from Internet and you can find we how to process data in this paper.
-This is my first time to open source, so there maybe some problems in my codes and I will improve this project in the near feature.
+All of datasets we use in this paper can be download from Internet and you can find we how to process data in this paper.  
+This is my first time to open source, so there maybe some problems in my codes and I will improve this project in the near feature.  
 Thanks!
 ## Requirements
-● Python3
-● PyTorch (My version 1.9.0+cu111, please choose compatibility with your computer)
-● Scikit-learn
+● Python3  
+● PyTorch (My version 1.9.0+cu111, please choose compatibility with your computer)  
+● Scikit-learn  
 ● Numpy
 ## How to train
 ### UCI-HAR dataset
