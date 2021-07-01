@@ -1,5 +1,6 @@
 # [IEEE JBHI 2021]Channel-Selectivity-CNN-for-HAR
 [IEEE JBHI 2021] The convolutional neural networks training with Channel-Selectivity for human activity recognition based on sensors
+![Model](https://github.com/wenbohuang1002/-IEEE-JBHI-2021-Channel-Selectivity-CNN-for-HAR/blob/main/Images/Model.png)
 ## How to train
 ### UCI-HAR dataset
 ```
