@@ -58,7 +58,7 @@ $ python Net_wisdm_ReSC.py
 ```
 ## Citation
 If you find Channel-Selectivity CNN for HAR useful in your research, please consider citing.
-'''
+```
 @article{huang2021convolutional,
   title={The convolutional neural networks training with Channel-Selectivity for human activity recognition based on sensors},
   author={Huang, Wenbo and Zhang, Lei and Teng, Qi and Song, Chaoda and He, Jun},
@@ -66,4 +66,4 @@ If you find Channel-Selectivity CNN for HAR useful in your research, please cons
   year={2021},
   publisher={IEEE}
 }
-'''
+```
